@@ -1,2 +1,1 @@
-# TIC
-TPC
+Resolvendo 
